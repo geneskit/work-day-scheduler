@@ -35,3 +35,14 @@ Array.from(rows).forEach(row => {
 function setColor(element, color) {
     element.style.backgroundColor = color;
 }
+
+// var plannerItems = [];
+// var getLocalStorageData = JSON.parse(localStorage.getItem("planner-items"));
+// 
+// plannerContent = getLocalStorageData;
+//     if (getLocalStorageData !== null) {
+// }
+// 
+// $("button").on("click", function() {
+//   
+// });
